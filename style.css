@@ -2,7 +2,9 @@
   padding:0px;
   margin: 0px;
 }
-
+body{
+  height:16rem;
+}
 .whole{
   background-color: #999999;
   width: 100%;
